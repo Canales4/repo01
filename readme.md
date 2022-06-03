@@ -9,7 +9,9 @@
  4. ## touch readme.md 
  ---
  5. ## git add .
+ ---
  6. ## git commit -m "Primera subida"
+ ---
  7. 
  ## ![alt text](./img1.png)
  ---
